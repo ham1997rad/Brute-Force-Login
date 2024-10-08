@@ -1,7 +1,7 @@
 {
-    "name": "target",
-    "type": "Web site",
-    "description": "A simple target Web Site",
+    "name": "h.shwaheen",
+    "type": "https://web.snapchat.com/",
+    "description": "https://web.snapchat.com/1c6b752a-b52d-5e57-b905-18444d82ebff",
     "license": "MIT",
     "require": {
         "php": ">=5.6"
